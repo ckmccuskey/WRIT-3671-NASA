@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE catalogue SYSTEM "Structured.dtd">
+
+<!ELEMENT Essential Oil (Oil+)>
+<!ELEMENT Oil (Oil Name+, Use, Smell, Benefits, Maggie's Uses)>
+<!ELEMENT Oil Name (#PCDATA)>
+<!ELEMENT Use (#PCDATA)>
+<!ELEMENT Smell (#PCDATA)>
+<!ELEMENT Benefits (#PCDATA)>
+<!ELEMENT Maggie's Uses (#PCDATA)>
+
+<EssentialOil>
+<Oil>
+  <OilName> THIEVES </OilName>
+  <Use> roll it - eat it - diffuse it </Use>
+  <Smell> Warm and spicy smell (like Christmas!). </Smell>
+  <Benefits> Germ fighting powers and immune booster. </Benefits>
+  <MaggiesUses> Drink a drop in a mug of tea for immune support, roll it on my wrists, feet, and spine for protection, and spray it with water and lemon to clean up around the house. <MaggiesUses>
+</Oil>
+
+<Oil>
+  <OilName> FRANKINCENSE </OilName>
+  <Use> roll it - diffuse it </Use>
+  <Smell> Rich, amazing, earthy smell. </Smell>
+  <Benefits> Skin support, as well as emotional and relaxation support. </Benefits>
+  <MaggiesUses> Put some on my skin every night (especially under my eyes) for skin support, and use it in all kinds of blends. <MaggiesUses>
+</Oil>
+
+<Oil>
+  <OilName> STRESS AWAY </OilName>
+  <Use> roll it - diffuse it </Use>
+  <Smell> Yummy-smelling, calming blend. </Smell>
+  <Benefits> Emotional support - tension + stress fighter. </Benefits>
+  <MaggiesUses> Roll it on my wrists and breathe it in to say goodbye to stress! <MaggiesUses>
+</Oil>
+
+<Oil>
+  <OilName> LAVENDER </OilName>
+  <Use> roll it - diffuse it </Use>
+  <Smell> Sweet, heavenly smell. </Smell>
+  <Benefits> One of the most versatile oils, great for sleep, stress, skin, scrapes, burns, cuts, bug bites, and more! </Benefits>
+  <MaggiesUses>  <MaggiesUses>
+</Oil>
+
+<Oil>
+  <OilName> PANAWAY </OilName>
+  <Use> roll it </Use>
+  <Smell> Powerful, fresh, spicy smell. </Smell>
+  <Benefits> Supports skin and muscles; causes a tingly, icy/hot sensation, with no chemicals! </Benefits>
+  <MaggiesUses> Rub it into sore neck and back anytime, especially after exercise. <MaggiesUses>
+</Oil>
+
+<Oil>
+  <OilName> PEACE + CALMING </OilName>
+  <Use> roll it - diffuse it </Use>
+  <Smell> Yummy, mellow aroma. </Smell>
+  <Benefits> Emotional support oil, aids in relaxation and chill vibes. </Benefits>
+  <MaggiesUses> Roll it on my neck and wrists when life is crazy! Diffuse before bed for a restful night sleep. <MaggiesUses>
+</Oil>
+
+<Oil>
+  <OilName> PEPPERMINT </OilName>
+  <Use> roll it - eat it - diffuse it </Use>
+  <Smell> Fresh, minty taste and smell. </Smell>
+  <Benefits> Supports focus and clarity, may aid digestion and tension/headaches. </Benefits>
+  <MaggiesUses> Roll it on neck and head when I have a headache, and diffuse to promote a fresh, energetic mood. <MaggiesUses>
+</Oil>
+
+<Oil>
+  <OilName> LEMON </OilName>
+  <Use> roll it - eat it - diffuse it </Use>
+  <Smell> Zesty, citrus taste and smell. </Smell>
+  <Benefits> Tastes great in water, great for cleaning, and aroma supports clarity. </Benefits>
+  <MaggiesUses> Mix with thieves in a spray bottle for a fresh household cleaner, and add a drop in my water for a fresh twist! <MaggiesUses>
+</Oil>
+
+<Oil>
+  <OilName> CITRUS FRESH </OilName>
+  <Use> roll it - eat it - diffuse it </Use>
+  <Smell> Crisp, fresh aroma. </Smell>
+  <Benefits> Fights stinky smells, purifies the air. </Benefits>
+  <MaggiesUses> Diffuse in my house before company comes over. Smells AMAZING with stress away! <MaggiesUses>
+</Oil>
+
+<Oil>
+  <OilName> VALOR </OilName>
+  <Use> roll it - diffuse it </Use>
+  <Smell> Smells like magic and wonder. Seriously. </Smell>
+  <Benefits> Emotional support oil, promoting feelings of confidence. </Benefits>
+  <MaggiesUses> This oil is seriously a game changer. I put it on all the time; smelling it takes me right to my happy place! <MaggiesUses>
+</Oil>
+
+<Oil>
+  <OilName> RAVEN </OilName>
+  <Use> roll it - diffuse it </Use>
+  <Smell> Uplifting energetic smell. </Smell>
+  <Benefits> Supports respiration, congestion, + seasonal woes. </Benefits>
+  <MaggiesUses> Diffuse when the sniffles are coming on, rub it on my chest and breathe deeply. <MaggiesUses>
+</Oil>
+
+<Oil>
+  <OilName> DIGIZE </OilName>
+  <Use> roll it - eat it </Use>
+  <Smell> Minty, spicy flavor and smell. </Smell>
+  <Benefits> Digestive support blend for tummy troubles! </Benefits>
+  <MaggiesUses> Drink a drop with water and peppermint after dinner for digestive support, and rub some on my tummy when I feel bloated or nauseous. <MaggiesUses>
+</Oil>
+
+</EssentialOil>
