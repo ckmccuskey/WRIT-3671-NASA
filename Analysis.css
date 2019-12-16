@@ -123,8 +123,11 @@ body, html {
 }
 
 
-
-
+/*Hanging indent*/
+.apa-reference {
+    padding-left: 36px
+    text-indent: -78px
+}
 
 
 
